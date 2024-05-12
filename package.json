@@ -1,6 +1,6 @@
 {
   "name": "our-first-probot-app",
-  "version": "1.0.0",
+  "version": "0.0.1-alpha.1",
   "private": true,
   "description": "A basic Probot application",
   "author": "Manaswini Das",
