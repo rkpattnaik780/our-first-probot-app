@@ -1,0 +1,5 @@
+name: "Our first Probot app"
+description: "A basic probot application built for getting familar with Probot hosting"
+runs:
+  using: "node20"
+  main: "dist/index.js"
