@@ -1,6 +1,6 @@
 import nock from "nock";
 // Requiring our app implementation
-import myProbotApp from "../index.js";
+import myProbotApp from "../app.js";
 import { Probot, ProbotOctokit } from "probot";
 // Requiring our fixtures
 //import payload from "./fixtures/issues.opened.json" with { type: "json" };
